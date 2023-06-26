@@ -8,7 +8,7 @@ const enableWorkers = os.cpus().length !== 1;
 
 module.exports = {
     //// HOSTING CONFIGURATION ////
-    bindingAddress: 'a.costiui.eu.org',
+    bindingAddress: '216.24.57.253',
     // bindingAddress: '127.0.0.1',
     port: 8080,
     crossDomainPort: 8081,
